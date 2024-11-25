@@ -1,0 +1,30 @@
+body{
+    width: 100%;
+}
+.container{
+    max-width: 1300px;
+    margin-inline: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.square-1{
+    background-color: yellowgreen;
+    width: 400px;
+    height: 400px;
+}
+.square-2{
+    background-color: rgb(201, 82, 155);
+    width: 200px;
+    height: 200px;
+}
+.square-3{
+    background-color: rgb(43, 0, 201);
+    width: 200px;
+    height: 200px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
